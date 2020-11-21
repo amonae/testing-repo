@@ -1,5 +1,9 @@
 Well would you look at this?
 
 Yet another file :)
+
+I have inserted more text here. Above.
+
 Okay, I'm adding additional text here, but plan on using 'git add -p', or doing a partial git add (or a 'patch add' I believe it's called?) I will only be adding this line, but leaving out lines I add above and below this little "mini-paragraph".
 
+I have ALSO inserted some more text here. Below!

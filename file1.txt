@@ -6,6 +6,9 @@ I only want to add this piece of text to a commit. The text after this can be ig
 
 (Ignore me in the next commit! 
 
-Hey, ignore me too!)I only want to add this piece of text to a commit. The text after this can be ignored.
+Hey, ignore me too!)
 
 Let me try this again... This is another partial commit.
+
+And I want this line to be ignored.
+And I want this line to be ignored as well.
