@@ -1,3 +1,5 @@
 This is file ONE! Hello world!
 
 Okay, I added even more text to file 1.
+I only want to add this piece of text to a commit. The text after this can be ignored.
+
