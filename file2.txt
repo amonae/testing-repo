@@ -1,5 +1,0 @@
-This is file 2. I am making some changes. Cool.
-
-Oh! Hey there file2!
-
-Even more text. Hello!
