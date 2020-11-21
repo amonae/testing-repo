@@ -8,3 +8,4 @@ I only want to add this piece of text to a commit. The text after this can be ig
 
 Hey, ignore me too!)I only want to add this piece of text to a commit. The text after this can be ignored.
 
+Let me try this again... This is another partial commit.
